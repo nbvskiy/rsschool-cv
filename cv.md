@@ -42,3 +42,11 @@ That's the ___basic___ code of HTML where we can say "Hello" to our world from t
 
 ## Experiences
 * This CV
+
+## Education
+* __Omsk State Medical University__
+    + Faculty of Dentistry
+
+## Languages
+* __Russian__ - Native speaker
+* __English__ - B1/B2 (Intermediate/Upper Intermediate)

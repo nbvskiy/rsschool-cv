@@ -20,3 +20,25 @@ Previously, I studied at the dental faculty of the Medical University, now I am 
 * JavaScript 
 * Version control: Git 
 
+## Code Examples
+That's the ___basic___ code of HTML where we can say "Hello" to our world from the browser
+
+```
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>
+        First Web Page
+    </title>
+</head>
+ 
+<body>
+    Hello World!
+</body>
+ 
+</html>
+```
+
+## Experiences
+* This CV

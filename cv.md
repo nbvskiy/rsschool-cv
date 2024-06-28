@@ -4,7 +4,7 @@
 
 ## Contact information
 * __Location:__ Omsk, Russia
-* __E-mail:__ nab.dev@gmail.com
+* __E-mail:__ nabv.dev@gmail.com
 * __GitHub:__ [nbvskiy](https://github.com/nbvskiy)
 * __Telegram:__ @nbvskiy
 

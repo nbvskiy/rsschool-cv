@@ -52,8 +52,9 @@ a {
     text-decoration: none;
     color: white;
     font-family: TT Firs Neue;
+    transition: 0s linear;
 }
-
+    
 .container {
     margin: 0 auto;
     width: 1350px;
@@ -102,6 +103,10 @@ a:hover {
 
 .header-nav-link {
     margin: 5px;
+}
+
+.header-nav-link:hover {
+    color: #da7b93;
 }
 
 .header-name {
@@ -155,6 +160,10 @@ a:hover {
     font-weight: 900;
 }
 
+.contacts-link:hover {
+    color: #da7b93;
+}
+
 .skills {
     margin-top: 30px;
     margin-left: 30px;
@@ -177,7 +186,6 @@ a:hover {
     margin-top: 30px;
     margin-left: 30px;
     margin-right: 30px;
-    padding-top: 30px;
 }
 
 .languages-container {
@@ -208,7 +216,80 @@ h2 {
     font-size: 40px;
 }
 
+.summary {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-bottom: 3px solid #FFF;
+}
+
+.summary-descrition {
+    margin: 20px;
+    padding: 0;
+    font-size: 20px;
+
+}
+
+.education {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-bottom: 3px solid #FFF;    
+}
+
+.education-container {
+    margin: 20px;
+    padding: 0;
+    font-size: 20px;
+}
+
+.code {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-bottom: 3px solid #FFF; 
+}
+
+.code-box {
+    background-color: #1c3334;
+    border: 3px solid #ffffff;
+    padding: 25px 100px;
+    max-width: fit-content;
+    margin: 30px auto;
+}
+
+.courses {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-bottom: 3px solid #FFF; 
+}
+
+.courses-container {
+    margin: 20px;
+    padding: 0;
+    font-size: 20px;
+}
+
+.projects {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.projects-container {
+    margin: 20px;
+    padding: 0;
+    font-size: 20px;
+}
+
+.projects-link:hover {
+    color: #1c3334;
+}
+
 .footer-content {
+    padding: 10px;
+    text-align: center;
     display: flex;
     justify-content: center;
     background-color: #376e6f;
@@ -219,9 +300,25 @@ h2 {
 }
 
 .footer-date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
+    font-size: 30px;
+    font-family: TT Firs Neue;
+    color: white;
+    text-transform: uppercase;
 }
 
 .footer-item-rsschool {
     width: 100%;
+}
+
+.github-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.rsschool-logo {
+    height: 50px;
 }
